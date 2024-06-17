@@ -1,0 +1,26 @@
+.main{
+    
+    justify-content: center;
+    text-align: center;
+    margin-top: 5pc;
+}
+
+.counter{
+    display: flex;
+    justify-content: center;
+
+}
+
+#increment_btn, #decrement_btn, #reset_btn{
+    width: 20%;
+    height: 40px;
+    margin: 25px;
+    background-color: rgb(43, 183, 43);
+    color: rgb(9, 9, 9);
+    font-size: 15px;
+}
+
+#decrement_btn{
+    background-color: rgb(165, 10, 10);
+}
+
